@@ -16,6 +16,6 @@ This seems to be a difficult project but i'll be grateful for any help I get.
 3. Run “npm install”, this will install all the dependencies.
 4. Run “npm start”, this will run the application.
 
-##Discord.js
+## Discord.js
 
 You will need to install [Discord.js](https://discord.js.org/#/) as well.
