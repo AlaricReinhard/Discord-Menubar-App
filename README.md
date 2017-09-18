@@ -19,5 +19,5 @@ This seems to be a difficult project but i'll be grateful for any help I get.
 ## Discord.js
 
 You will need to install [Discord.js](https://discord.js.org/#/) as well.
-Run -'npm install --save discord.js'
+Run - '$ npm install --save discord.js'
 
