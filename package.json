@@ -1,0 +1,17 @@
+{
+  "name": "Discord Menubar App",
+  "version": "1.0.0",
+  "description": "A Discord Menubar App for MacOSX",
+  "license": "MIT",
+  "repository": "github.com/AlaricReinhard/Discord-Menubar-App",
+  "devDependencies": {
+    "electron-packager": "^8.0.0",
+    "electron-prebuilt": "^1.4.1"
+  },
+  "dependencies": {},
+  "main": "main.js",
+  "scripts": {
+    "build-osx": "electron-packager . Example --platform=darwin --arch=x64 --version=0.36.0 --icon=Icon.icns",
+    "start": "electron ."
+  }
+}
